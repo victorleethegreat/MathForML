@@ -33,3 +33,7 @@
       * a system of equations is singular if the value of dependant is zero 
       
       * a system of equations is non-singular if the value of dependant is non-zero
+  
+  * **System of Linear Equations: 2 Variables**
+    
+    * TODO
